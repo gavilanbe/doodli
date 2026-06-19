@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+out/
+.next/
+.cache/
+.parcel-cache/
+target/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.env
+.env.local
+*.tmp
